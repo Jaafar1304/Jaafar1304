@@ -1,7 +1,7 @@
 # 👋 Salut, je suis Aboubacry Dramé
 
 Pharmacien Épidémiologiste & Doctorant (Santé & Développement Durable) — spécialisé en **santé publique**, **biostatistique** et **data science** appliquée aux programmes de santé.  
-📍 Dakar, Sénégal | ✉️ aboubacrdra@outlook.fr
+📍 Dakar, Sénégal | ✉️ aboubacrdra@outlook.fr / aboubacrdrame@gmail.com
 
 ---
 
@@ -15,6 +15,7 @@ Pharmacien Épidémiologiste & Doctorant (Santé & Développement Durable) — s
 ## 🧠 Domaines d’intérêt
 - Santé maternelle, néonatale et infantile (SMNI)
 - Nutrition & retard de croissance (stunting)
+- Bactériologie et virologie (VIH, VHB, HPV)
 - Systèmes de données, suivi-évaluation, enquêtes (DHS/EDS)
 
 ---
@@ -27,14 +28,14 @@ Pharmacien Épidémiologiste & Doctorant (Santé & Développement Durable) — s
 
 ---
 
-## 📌 Expériences (sélection)
+## 📌 Expériences
 - DSME : Chargé de recherche (analyse & gestion de données)
 - Data manager senior : IMCI-PLUS (échographie pulmonaire)
 - Études OMS / DSME : SRH ados-jeunes, santé mentale, nutrition (analyse + rapports)
 
 ---
 
-## 📚 Publications & travaux (sélection)
+## 📚 Publications & travaux
 - Machine learning et retard de croissance (DHS Sénégal) — en cours
 - Mortalité périnatale (DHS 2023) — en cours
 - HPV / VIH / Hépatite B — publications et collaborations
